@@ -8,8 +8,8 @@
 <p align="center"><i>"If it takes more than 5 clicks, I automate it."</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JEET090806&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/JEET090806?style=flat-square&color=blue&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=PandyaJeet&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/PandyaJeet?style=flat-square&color=blue&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Automation-orange?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Building%20the%20Future-success?style=flat-square" alt="Status" />
 </p>
@@ -66,19 +66,19 @@
 ## 📈 GitHub Activity (Not Bragging, Just Documenting Greatness)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JEET090806&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandyaJeet&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JEET090806&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PandyaJeet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JEET090806&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PandyaJeet&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEET090806&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandyaJeet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -86,7 +86,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JEET090806&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PandyaJeet&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -100,7 +100,7 @@
   <a href="https://linkedin.com/in/jeetpandya2006" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/JEET090806" target="_blank">
+  <a href="https://github.com/PandyaJeet" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>

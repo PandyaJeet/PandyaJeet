@@ -1,8 +1,4 @@
 <!-- README.md -->
-<p align="center">
-  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="300"/>
-</p>
-
 <h1 align="center">⚙️ Jeet Pandya — The Guy Who Automates Everything</h1>
 
 <p align="center"><i>"If it takes more than 5 clicks, I automate it."</i></p>

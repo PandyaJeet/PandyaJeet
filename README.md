@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Status-Building%20the%20Future-success?style=flat-square" alt="Status" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="300"/>
+</p>
+
 ---
 
 ## 🧠 About Me

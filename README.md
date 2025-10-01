@@ -26,7 +26,7 @@
 ---
 
 ## 🔧 Tech Stack (a.k.a My Toolbox of Laziness Prevention)
-
+<p align="center">
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -48,7 +48,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 > I code in **pure logic**. Frameworks fear me.
-
+</p align="center">
 ---
 
 ## 🧪 Current Experiments
@@ -125,5 +125,4 @@
 <p align="center">
   <sub>Yes, this README was partially automated.</sub> 🤖
   <br>
-  <sub>Made with ❤️ and excessive automation</sub>
 </p>

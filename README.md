@@ -25,7 +25,7 @@
 
 ---
 
-## 🔧 Tech Stack (a.k.a My Toolbox of Laziness Prevention)
+## 🔧 Tech Stack 
 
 <p align="center">
 
@@ -50,8 +50,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </p>
-
-<p align="center"><i>I code in <b>pure logic</b>. Frameworks fear me.</i></p>
 
 ---
 
@@ -114,17 +112,6 @@
 </p>
 
 ---
-
-## 📊 This Week's Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
 
 <p align="center">
   <sub>Yes, this README was partially automated.</sub> 🤖

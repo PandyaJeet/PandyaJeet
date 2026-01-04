@@ -92,7 +92,7 @@
 ## 🛰️ Find Me on the Internet
 
 <p align="center">
-  <a href="https://jeetpandya.web.app" target="_blank">
+  <a href="https://pandyajeet.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/jeetpandya2006" target="_blank">
